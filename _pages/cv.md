@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <!-- This creates a nice, prominent download button -->
-Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #946e83; color: #000; border: 2px solid #946e83; font-weight: bold; margin-bottom: 20px;"}
+Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #946e83; color: #fff; border: 2px solid #946e83; font-weight: bold; margin-bottom: 20px;"}
 
 Education
 ======
@@ -27,18 +27,19 @@ Research Interests
 * Neuromorphic Computing -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Efficient Large Language Models</span>
-  <span style="background-color: #946e83; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Neural Architecture Search</span>
+  <span style="background-color: #946e83; color: #fff; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Neural Architecture Search</span>
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Model Compression & Pruning</span>
-  <span style="background-color: #946e83; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Generative Models</span>
+  <span style="background-color: #946e83; color: #fff; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Generative Models</span>
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">ML Memorization</span>
-  <span style="background-color: #946e83; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Neuromorphic Computing</span>
+  <span style="background-color: #946e83; color: #fff; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Neuromorphic Computing</span>
 </div>
+
+<!-- <ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul> -->
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 <div class="compact-list">
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
