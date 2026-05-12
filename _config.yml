@@ -26,7 +26,7 @@ author:
   avatar           : "p_profile1.JPG"
   name             : "Prajna G. Malettira"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Ph.D. researcher in Electrical and Computer Engineering at Purdue Univeristy, advised by Prof. Kaushik Roy. My research focuses on developing novel algorithms for training-free Neural Architecture Search, model compression and data pruning."
+  bio              : "Efficient Large Models, Model Compression and Neural Architecture Search!"
   location         : "West Lafayette, Indiana"
   employer         : "Purdue University"
   uri              : # URL
