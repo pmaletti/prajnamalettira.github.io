@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- This creates a nice, prominent download button -->
 <!-- Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #946e83; color: #000; border: 2px solid #946e83; font-weight: bold; margin-bottom: 20px;"} -->
-Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: transparent; color: #000 !important; border: 2px solid #000; font-weight: bold; margin-bottom: 20px;"}
+Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #946e83; color: #000 !important; border: 2px solid #000; font-weight: bold; margin-bottom: 20px;"}
 
 Education
 ======
