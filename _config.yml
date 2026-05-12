@@ -23,7 +23,7 @@ repository               : "pmaletti/pmaletti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "p_profile.JPG"
   name             : "Prajna G. Malettira"
   pronouns         : # example: "she/her"  
   bio              : "I am a Ph.D. researcher in Electrical and Computer Engineering at Purdue Univeristy, advised by Prof. Kaushik Roy. My research focuses on developing novel algorithms for training-free Neural Architecture Search, model compression and data pruning."
