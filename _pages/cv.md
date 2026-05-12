@@ -13,6 +13,7 @@ redirect_from:
 <!-- Download a compact version of my CV here: [📥 Download Resume](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #946e83; color: #000 !important; border: 2px solid #000; font-weight: 600; font-size: 0.9em; margin-bottom: 20px; text-decoration: none !important;"}
  -->
 Download a compact version of my CV here: [<span style="font-size: 1.2em; line-height: 0; vertical-align: -2px; margin-right: 5px;">📄</span> Download Resume](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #946e83; color: #000 !important; border: 2px solid #000; font-weight: 600; font-size: 0.9em; padding: 6px 15px; border-radius: 50px; text-decoration: none !important; display: inline-flex; align-items: center; line-height: 1;"}
+
 Education
 ======
 * **Ph.D. in Electrical and Computer Engineering**, Purdue University (May, 2028)
@@ -36,15 +37,13 @@ Research Interests
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Neuromorphic Computing</span>
 </div>
 
-
+<!-- <ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul> -->
 
 Publications
 ======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-<!-- <div class="compact-list">
+<div class="compact-list">
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
@@ -62,7 +61,7 @@ Publications
     margin-top: 5px; 
     margin-bottom: 0;
   }
-</style> -->
+</style>
 
 Technical Skills
 ======
