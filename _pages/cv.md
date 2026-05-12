@@ -36,13 +36,15 @@ Research Interests
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Neuromorphic Computing</span>
 </div>
 
-<!-- <ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul> -->
+
 
 Publications
 ======
-<div class="compact-list">
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+<!-- <div class="compact-list">
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
@@ -60,7 +62,7 @@ Publications
     margin-top: 5px; 
     margin-bottom: 0;
   }
-</style>
+</style> -->
 
 Technical Skills
 ======
