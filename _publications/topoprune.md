@@ -1,7 +1,7 @@
 ---
 title: "TopoPrune: Robust Data Pruning via Unified Latent Space Topology"
 collection: publications
-category: manuscripts
+# category: manuscripts
 permalink: https://arxiv.org/abs/2602.02739
 excerpt: 'TopoPrune solves the inherent instability of traditional data pruning by using topology to capture the intrinsic, stable structure of a dataset. It creates pruned subsets that are exceptionally robust to noise and highly transferable across different model architectures, even at 90% pruning rates'
 date: February, 2026
