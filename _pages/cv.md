@@ -31,8 +31,8 @@ Research Interests
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Model Compression & Pruning</span>
   <span style="background-color: #946e83; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Generative Models</span>
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">ML Memorization</span>
-  <span style="background-color: #946e83; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Sparse Autoencoders & Dictionary Learning</span>
-  <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Neuromorphic Computing</span>
+  <span style="background-color: #946e83; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Sparse Autoencoders & Dictionary Learning</span>
+  <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Neuromorphic Computing</span>
 </div>
 
 <!-- <ul>{% for post in site.publications reversed %}
