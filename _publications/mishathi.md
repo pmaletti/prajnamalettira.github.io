@@ -1,7 +1,6 @@
 ---
 title: "Mishathi - A Smart Vision System"
 collection: publications
-category: conferences
 permalink: https://ieeexplore.ieee.org/abstract/document/9754032
 excerpt: 'This paper is about fixing template issue #693.'
 date: February, 2022
