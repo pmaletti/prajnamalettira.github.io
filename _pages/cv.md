@@ -19,13 +19,20 @@ Education
 
 Research Interests
 ======
-
-* Efficient Large Language Models
+<!-- * Efficient Large Language Models
 * Neural Architecture Search
 * Model Compression via Structured Pruning
 * Generative Models
 * Memorization in ML models
-* Neuromorphic Computing
+* Neuromorphic Computing -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
+  <span style="background-color: #CEB888; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #000;">Efficient Large Language Models</span>
+  <span style="background-color: #000; color: #CEB888; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #CEB888;">Neural Architecture Search</span>
+  <span style="background-color: #CEB888; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #000;">Model Compression & Pruning</span>
+  <span style="background-color: #000; color: #CEB888; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #CEB888;">Generative Models</span>
+  <span style="background-color: #CEB888; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #000;">ML Memorization</span>
+  <span style="background-color: #000; color: #CEB888; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #CEB888;">Neuromorphic Computing</span>
+</div>
 
 Publications
 ======
@@ -43,9 +50,10 @@ Work experience
 ======
 **Graduate Research Assistant** | *Nano(neuro)electronics Research Lab (NRL), Purdue University* (Aug 2023 - Present)
 * Driving research on Neural Architecture Search (NAS), Spiking Neural Networks (SNNs), and efficient Large Language Models (LLMs).
-* Developing frameworks for structured pruning and latent space topology, leading to multiple first-author and collaborative publications.
+* Developing frameworks for structured pruning and latent space topology for data pruning, efficient and robust data coreset generation and data memorization pipelines.
+* Leveraging Dictionary Learning and Sparse Autoencoders (SAEs) to bypass the expensive training-aware process of data attribution, memorization by developing novel techniques for data memorization.
 
-**Graduate Teaching Assistant - EPICS** | *Purdue University* (1 Year)
+**Graduate Teaching Assistant - EPICS** | *Purdue University* (Aug, 2023 - May, 2024)
 * Guided undergraduate students through community-led engineering projects in the Greater Lafayette area, with a focus on fostering sustainability and practical design.
 
 **Graduate Research Assistant** | *Integrated Imaging Lab (I2Lab), Purdue University* (May 2023 - Aug 2023)
