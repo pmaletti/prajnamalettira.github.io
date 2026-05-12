@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <!-- This creates a nice, prominent download button -->
-Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #946e83; color: #000; border: 2px solid #946e83; font-weight: bold; margin-bottom: 20px;"}
+<!-- Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #946e83; color: #000; border: 2px solid #946e83; font-weight: bold; margin-bottom: 20px;"} -->
+Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: transparent; color: #000 !important; border: 2px solid #000; font-weight: bold; margin-bottom: 20px;"}
 
 Education
 ======
@@ -69,7 +70,7 @@ Technical Skills
 Work experience
 ======
 **Graduate Research Assistant** | *Neuroelectronics Research Lab (NRL), Purdue University* (Aug 2023 - Present)
-* *PIs: Dr. Kaushik Roy*
+* *PI: Dr. Kaushik Roy*
 * Driving research on Neural Architecture Search (NAS), Spiking Neural Networks (SNNs), and efficient Large Language Models (LLMs).
 * Developing frameworks for structured pruning and latent space topology for data pruning, efficient and robust data coreset generation and data memorization pipelines.
 * Leveraging Dictionary Learning and Sparse Autoencoders (SAEs) to bypass the expensive training-aware process of data attribution, memorization by developing novel techniques for data memorization.
