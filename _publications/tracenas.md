@@ -1,6 +1,7 @@
 ---
 title: "TraceNAS: Zero-shot LLM Pruning via Gradient Trace Correlation"
 collection: publications
+category: conferences
 permalink: https://arxiv.org/abs/2602.02891
 excerpt: 'A training-free NAS framework for joint LLM depth and width pruning that reduces search overhead by 10x via a novel gradient correlation proxy.'
 date: February, 2026

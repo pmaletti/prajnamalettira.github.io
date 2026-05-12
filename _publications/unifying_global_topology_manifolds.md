@@ -1,6 +1,7 @@
 ---
 title: "Unifying Global Topology Manifolds and Local Persistent Homology for Data Pruning"
 collection: publications
+category: manuscripts
 permalink: https://openreview.net/forum?id=oVrHOrOsHl
 excerpt: "Geometric-based dataset pruning is often compromised by architectural variance in feature embeddings. We propose a solution grounded in topological invariance, which first standardizes the data's global manifold before a differentiable persistence-based optimizer distills local sample importance from each point's corrective displacement. The resulting framework yields coresets that are fundamentally robust to the geometric shifts between diverse pretrained models, enabling universal applicability."
 date: September, 2025
