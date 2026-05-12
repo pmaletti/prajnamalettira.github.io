@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <!-- This creates a nice, prominent download button -->
-[**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn .btn--primary style="margin-bottom: 20px;"}
+<!-- Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn .btn--primary style="margin-bottom: 20px;"} -->
+<!-- Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #CEB888; color: #000; border: 1px solid #000; font-weight: bold; margin-bottom: 20px;"} -->
+Download my resume here: [**📥 Download Resume**](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #fbcce1; color: #4b3036; border: 1px solid #f7a8c4; font-weight: bold; margin-bottom: 20px;"}
 
 Education
 ======
@@ -25,13 +27,21 @@ Research Interests
 * Generative Models
 * Memorization in ML models
 * Neuromorphic Computing -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
   <span style="background-color: #CEB888; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #000;">Efficient Large Language Models</span>
   <span style="background-color: #000; color: #CEB888; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #CEB888;">Neural Architecture Search</span>
   <span style="background-color: #CEB888; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #000;">Model Compression & Pruning</span>
   <span style="background-color: #000; color: #CEB888; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #CEB888;">Generative Models</span>
   <span style="background-color: #CEB888; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #000;">ML Memorization</span>
   <span style="background-color: #000; color: #CEB888; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #CEB888;">Neuromorphic Computing</span>
+</div> -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
+  <span style="background-color: #b4f8c8; color: #1e3a29; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #98d8aa;">Efficient Large Language Models</span>
+  <span style="background-color: #fbcce1; color: #4b3036; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #f7a8c4;">Neural Architecture Search</span>
+  <span style="background-color: #b4f8c8; color: #1e3a29; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #98d8aa;">Model Compression & Pruning</span>
+  <span style="background-color: #fbcce1; color: #4b3036; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #f7a8c4;">Generative Models</span>
+  <span style="background-color: #b4f8c8; color: #1e3a29; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #98d8aa;">ML Memorization</span>
+  <span style="background-color: #fbcce1; color: #4b3036; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 1px solid #f7a8c4;">Neuromorphic Computing</span>
 </div>
 
 Publications
