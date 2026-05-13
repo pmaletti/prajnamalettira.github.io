@@ -2,7 +2,7 @@
 title: "TSkips: Efficiency Through Explicit Temporal Delay Connections in Spiking Neural Networks"
 collection: publications
 category: manuscripts
-permalink: https://openreview.net/forum?id=hwz32S06G4
+permalink: /publications/tskips
 excerpt: 'TSkips introduces a novel architectural mechanism for Spiking Neural Networks (SNNs) that utilizes explicit temporal skip connections to significantly improve inference efficiency and temporal dependency modeling. By allowing information to bypass layers across time steps, the framework achieves state-of-the-art performance on neuromorphic benchmarks while reducing the energy footprint of deep SNNs.'
 date: July, 2025
 venue: 'Transactions on Machine Learning Research'
