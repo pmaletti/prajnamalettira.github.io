@@ -14,7 +14,7 @@ redirect_from:
  -->
 <!-- Download a compact version of my CV here: [<span style="font-size: 1.2em; line-height: 0; vertical-align: -2px; margin-right: 5px;">📄</span> Download Resume](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: #946e83; color: #000 !important; border: 2px solid #000; font-weight: 600; font-size: 0.9em; padding: 6px 15px; border-radius: 50px; text-decoration: none !important; display: inline-flex; align-items: center; line-height: 1;"} -->
 
-Download a compact version of my CV here: [<span style="font-size: 1.2em; line-height: 0; vertical-align: -2px; margin-right: 5px;">📄</span> Download Resume](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: transparent; color: #946e83 !important; border: 2px solid #b06d85 !important; font-weight: 600; font-size: 0.9em; padding: 6px 15px; border-radius: 50px; text-decoration: none !important; display: inline-flex; align-items: center; line-height: 1;"}
+Download a compact version of my CV here: [<span style="font-size: 1.2em; line-height: 0; vertical-align: -2px; margin-right: 5px;">📄</span> Download Resume](/files/Prajna_Malettira_s_Resume.pdf){: .btn style="background-color: transparent; color: #b06d85 !important; border: 2px solid #b06d85 !important; font-weight: 600; font-size: 0.9em; padding: 6px 15px; border-radius: 50px; text-decoration: none !important; display: inline-flex; align-items: center; line-height: 1;"}
 
 Education
 ======
