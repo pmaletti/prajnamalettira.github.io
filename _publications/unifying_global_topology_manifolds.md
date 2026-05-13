@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/unifying_global_topology_manifolds
 excerpt: "Geometric-based dataset pruning is often compromised by architectural variance in feature embeddings. We propose a solution grounded in topological invariance, which first standardizes the data's global manifold before a differentiable persistence-based optimizer distills local sample importance from each point's corrective displacement. The resulting framework yields coresets that are fundamentally robust to the geometric shifts between diverse pretrained models, enabling universal applicability."
-date: September, 2025
+date: 2025-09-01
 venue: 'NeurIPS Workshop, NeuREPS Symmetry and Geometry in Neural Representations'
 bibtexurl: '/files/unifying_global_topology_manifolds.bib'
 paperurl: 'https://openreview.net/pdf?id=oVrHOrOsHl'
