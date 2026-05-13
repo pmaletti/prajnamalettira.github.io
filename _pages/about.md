@@ -18,6 +18,8 @@ My research focuses on three core pillars of modern Machine Learning Engineering
 
 Academic & Professional Journey
 ======
-Prior to my time at Purdue, I earned my Bachelor’s degree in Electronics and Communication Engineering from PES University and gained industry experience as an R&D intern at ABB India, where I developed predictive maintenance models using RNNs.
+Prajna G. Malettira is a graduate student in the Department of Electrical and Computer Engineering at Purdue University, conducting research under the supervision of Prof. Kaushik Roy. Currently an SRC Research Fellow, her work focuses on developing efficient and robust machine learning systems, with a particular emphasis on Neural Architecture Search (NAS), Spiking Neural Networks (SNNs), and Large Language Model efficiency. Her research has been recognized at leading venues such as Transactions on Machine Learning Research (TMLR) and various NeurIPS Workshops, frequently integrating advanced geometric and topological concepts—including Riemannian manifolds and persistent homology—to optimize neural network performance.
 
-My recent research has been recognized at venues such as TMLR and NeurIPS Workshops covering diverse topics from Spiking Neural Networks (SNNs) to robust dataset pruning.
+Prior to her doctoral studies, Prajna gained diverse industrial experience in research and operations. She served as an R&D intern at ABB India, where she developed predictive maintenance models using Recurrent Neural Networks (RNNs). She also worked as a project intern at Collins Aerospace, where she designed an operations framework for Cargo Systems to automate work orders and implement Just-in-Time processing through the intelligent segregation of manufactured products.
+
+Prajna earned her Bachelor’s degree in Electronics and Communication Engineering from PES University, India. During her undergraduate career, she was recognized for her leadership and social impact as a Millennium Fellow. She is currently based in West Lafayette, Indiana.
