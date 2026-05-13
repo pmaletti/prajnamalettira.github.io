@@ -41,3 +41,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom Hyperlink Overrides */
+a {
+  color: #b06d85 !important;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #d18ba3 !important; /* A slightly lighter version for the hover state */
+  text-decoration: underline;
+}
+
+/* Optional: Ensure links in your CV/Resume section also match */
+.btn {
+  text-decoration: none !important;
+}
