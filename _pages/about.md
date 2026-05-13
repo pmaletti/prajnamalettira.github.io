@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. researcher in Electrical and Computer Engineering at Purdue Univeristy, advised by Prof. Kaushik Roy. My research focuses on developing novel algorithms for training-free Neural Architecture Search, model compression and data pruning. My research sits at the intersection of geometry, topology, and large-scale model optimization. I am driven by the challenge of making artificial intelligence more efficient, accessible, and interpretable—transforming high-performance models from "black boxes" into lean, explainable systems.
+I am a Ph.D. researcher in Electrical and Computer Engineering at Purdue Univeristy, advised by [Prof. Kaushik Roy](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate). My research focuses on developing novel algorithms for training-free Neural Architecture Search, model compression and data pruning. My research sits at the intersection of geometry, topology, and large-scale model optimization. I am driven by the challenge of making artificial intelligence more efficient, accessible, and interpretable high-performance models.
 
 Research Focus
 ======
