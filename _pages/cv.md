@@ -27,7 +27,7 @@ Research Interests
 * Generative Models
 * Memorization in ML models
 * Neuromorphic Computing -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Efficient Large Language Models</span>
   <span style="background-color: #946e83; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Neural Architecture Search</span>
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Model Compression & Pruning</span>
@@ -35,8 +35,17 @@ Research Interests
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">ML Memorization</span>
   <span style="background-color: #946e83; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Sparse Autoencoders & Dictionary Learning</span>
   <span style="background-color: #ddf8e8; color: #000; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #ddf8e8;">Neuromorphic Computing</span>
-</div>
+</div> -->
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
+  <span style="background-color: transparent; color: #946e83; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Efficient Large Language Models</span>
+  <span style="background-color: transparent; color: #946e83; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Neural Architecture Search</span>
+  <span style="background-color: transparent; color: #946e83; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Model Compression & Pruning</span>
+  <span style="background-color: transparent; color: #946e83; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Generative Models</span>
+  <span style="background-color: transparent; color: #946e83; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">ML Memorization</span>
+  <span style="background-color: transparent; color: #946e83; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Sparse Autoencoders & Dictionary Learning</span>
+  <span style="background-color: transparent; color: #946e83; padding: 6px 15px; border-radius: 50px; font-weight: 600; font-size: 0.9em; border: 2px solid #946e83;">Neuromorphic Computing</span>
+</div>
 <!-- <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul> -->
