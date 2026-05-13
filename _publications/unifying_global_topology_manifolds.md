@@ -3,14 +3,16 @@ title: "Unifying Global Topology Manifolds and Local Persistent Homology for Dat
 collection: publications
 category: manuscripts
 permalink: /publications/unifying_global_topology_manifolds
-excerpt: "Geometric-based dataset pruning is often compromised by architectural variance in feature embeddings. We propose a solution grounded in topological invariance, which first standardizes the data's global manifold before a differentiable persistence-based optimizer distills local sample importance from each point's corrective displacement. The resulting framework yields coresets that are fundamentally robust to the geometric shifts between diverse pretrained models, enabling universal applicability."
-date: 2025-09-01
+excerpt: ""
+date: 2025-09-23
 venue: 'NeurIPS Workshop, NeuREPS Symmetry and Geometry in Neural Representations'
 bibtexurl: '/files/unifying_global_topology_manifolds.bib'
 paperurl: 'https://openreview.net/pdf?id=oVrHOrOsHl'
 citation: 'Roy, A., Malettira, P. G., Nagaraj, M., & Roy, K. (2025). Unifying Global Topology Manifolds and Local Persistent Homology for Data Pruning.'
 ---
 
+<!-- excerpt: "Geometric-based dataset pruning is often compromised by architectural variance in feature embeddings. We propose a solution grounded in topological invariance, which first standardizes the data's global manifold before a differentiable persistence-based optimizer distills local sample importance from each point's corrective displacement. The resulting framework yields coresets that are fundamentally robust to the geometric shifts between diverse pretrained models, enabling universal applicability."
+ -->
 ## Abstract
 Geometric coreset selection is often compromised by architectural variance in feature embeddings. We propose a solution grounded in topological invariance, which first standardizes the data’s global manifold before a differentiable persistence-based optimizer distills local sample importance from each point’s corrective displacement. The resulting framework yields coresets that are fundamentally robust to the geometric shifts between diverse pretrained models, enabling universal applicability.
 
